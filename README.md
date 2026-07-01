@@ -40,4 +40,4 @@ python3 scripts/flow_render.py flow.json flow.svg
 python3 scripts/md_to_html.py 表结构设计.md
 ```
 
-完整流程、ER 语法与输出格式见 [SKILL.md](SKILL.md)，版本变更见 `CHANGELOG/`。
+完整流程、ER 语法与输出格式见 [SKILL.md](Skills/blueprint/hb-table-design/SKILL.md)，版本变更见 `CHANGELOG/`。
